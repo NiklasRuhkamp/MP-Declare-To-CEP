@@ -8,6 +8,5 @@ To run demo:
 3. 'mvn exec:java' (this will start the HomeScreen for user input)
 
 
-(user interface video: https://vimeo.com/512048601)
-(MQTT-setup video: https://vimeo.com/512049878)
+(user interface video: https://vimeo.com/512048601; MQTT-setup video: https://vimeo.com/512049878)
 	
